@@ -1,0 +1,2 @@
+# EOY-Stock-Return-Predictor
+A cluster-specific prediction model to predict whether or not stock returns for the month of December will be positive or not, based on the stock returns for the first 11 months of the year. Though this model achieves a modest accuracy of about 57.88% in a byzantine problem such as predicting stock return, this is fairly a good recommender for any investor basing his/her decision only on the stock returns for the previous months of the calendar year.
